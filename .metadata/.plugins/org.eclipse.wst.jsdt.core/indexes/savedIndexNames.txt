@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+E:\bài\Hoang_Hai_Huu b8962\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2179810368.index
+3272999439.index
+1000729025.index
+1060206652.index
+4185383999.index
+597430138.index
+2206964352.index

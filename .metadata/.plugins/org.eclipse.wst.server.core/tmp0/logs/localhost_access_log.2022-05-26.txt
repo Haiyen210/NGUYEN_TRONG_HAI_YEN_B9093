@@ -1,0 +1,15 @@
+127.0.0.1 - - [26/May/2022:11:28:10 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:28:22 +0700] "GET /Resful_Lesson_One/ HTTP/1.1" 404 773
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:28:58 +0700] "GET /Resful_Lesson_One/project/san-pham HTTP/1.1" 200 14
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:28:58 +0700] "GET /Resful_Lesson_One/project/san-pham HTTP/1.1" 200 9
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:29:25 +0700] "GET /Resful_Lesson_One/ HTTP/1.1" 404 773
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:29:34 +0700] "GET /Resful_Lesson_One/project/san-pham HTTP/1.1" 200 14
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:34:39 +0700] "GET /Resful_Lesson_One/project/san-pham HTTP/1.1" 200 115
+127.0.0.1 - - [26/May/2022:11:38:32 +0700] "GET /Resful_Lesson_One/project/san-pham HTTP/1.1" 200 115
+127.0.0.1 - - [26/May/2022:11:39:28 +0700] "GET /Resful_Lesson_One/project/san-pham HTTP/1.1" 200 115
+127.0.0.1 - - [26/May/2022:11:43:05 +0700] "POST /Resful_Lesson_One/project/san-pham HTTP/1.1" 200 27
+127.0.0.1 - - [26/May/2022:11:43:05 +0700] "GET /Resful_Lesson_One/project/san-pham HTTP/1.1" 200 213
+127.0.0.1 - - [26/May/2022:11:43:15 +0700] "DELETE /Resful_Lesson_One/project/san-pham/2 HTTP/1.1" 200 33
+127.0.0.1 - - [26/May/2022:11:43:15 +0700] "GET /Resful_Lesson_One/project/san-pham HTTP/1.1" 200 115
+127.0.0.1 - - [26/May/2022:11:43:16 +0700] "DELETE /Resful_Lesson_One/project/san-pham/1 HTTP/1.1" 200 33
+127.0.0.1 - - [26/May/2022:11:43:16 +0700] "GET /Resful_Lesson_One/project/san-pham HTTP/1.1" 200 12

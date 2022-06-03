@@ -1,0 +1,14 @@
+127.0.0.1 - - [26/May/2022:11:38:28 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:38:33 +0700] "GET /client_serve/ HTTP/1.1" 200 522
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:39:28 +0700] "GET /client_serve/ HTTP/1.1" 200 522
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:39:28 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:42:30 +0700] "GET /client_serve/insert.jsp HTTP/1.1" 200 426
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:43:05 +0700] "POST /client_serve/InsertProServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:43:05 +0700] "GET /client_serve HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:43:12 +0700] "GET /client_serve/ HTTP/1.1" 200 705
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:43:15 +0700] "GET /client_serve/DeleteProServlet?id=2 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:43:15 +0700] "GET /client_serve HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:43:15 +0700] "GET /client_serve/ HTTP/1.1" 200 523
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:43:16 +0700] "GET /client_serve/DeleteProServlet?id=1 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:43:16 +0700] "GET /client_serve HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [26/May/2022:11:43:16 +0700] "GET /client_serve/ HTTP/1.1" 200 336

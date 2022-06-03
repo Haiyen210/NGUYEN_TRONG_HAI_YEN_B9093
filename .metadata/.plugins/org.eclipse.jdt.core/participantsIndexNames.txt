@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+E:\bài\Hoang_Hai_Huu b8962\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1060206652.index
+\client_serve\src\main\java
